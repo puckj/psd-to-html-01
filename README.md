@@ -1,2 +1,10 @@
 # psd-to-html-01
-PSD to HTML/CSS (Responsive)
+PSD to HTML/CSS
+
+[Responsive]
+
+  - mobile-first
+  
+  - min-width: 768px
+  
+  - min-width: 1000px
